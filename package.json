@@ -1,0 +1,25 @@
+{
+  "name": "webhook-exec",
+  "version": "1.0.0",
+  "description": "## Stack",
+  "main": "server.js",
+  "dependencies": {
+    "nodemon": "^1.18.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "nodemon": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webhookrelay/webhook-exec.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webhookrelay/webhook-exec/issues"
+  },
+  "homepage": "https://github.com/webhookrelay/webhook-exec#readme"
+}
